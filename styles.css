@@ -121,5 +121,18 @@ body {
     
 }
 
+.equal {
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    border: solid black 3px;
+    background-color: darkblue;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+  
+    
+}
 
 
